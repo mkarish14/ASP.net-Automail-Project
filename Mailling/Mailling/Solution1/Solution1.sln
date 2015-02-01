@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\Mail\", "..\Mail\", "{2737EFF9-16B5-4B63-A9E3-89E2228CBDA3}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/Mail"
+		Debug.AspNetCompiler.PhysicalPath = "..\Mail\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Mail\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Mail"
+		Release.AspNetCompiler.PhysicalPath = "..\Mail\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Mail\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1076"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SQL", "SQL\SQL.vbproj", "{B604F553-DC57-424B-9A59-FCBEF4578970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2737EFF9-16B5-4B63-A9E3-89E2228CBDA3}.Debug|.NET.ActiveCfg = Debug|.NET
+		{2737EFF9-16B5-4B63-A9E3-89E2228CBDA3}.Debug|.NET.Build.0 = Debug|.NET
+		{2737EFF9-16B5-4B63-A9E3-89E2228CBDA3}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{2737EFF9-16B5-4B63-A9E3-89E2228CBDA3}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{2737EFF9-16B5-4B63-A9E3-89E2228CBDA3}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{2737EFF9-16B5-4B63-A9E3-89E2228CBDA3}.Release|.NET.ActiveCfg = Debug|.NET
+		{2737EFF9-16B5-4B63-A9E3-89E2228CBDA3}.Release|.NET.Build.0 = Debug|.NET
+		{2737EFF9-16B5-4B63-A9E3-89E2228CBDA3}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{2737EFF9-16B5-4B63-A9E3-89E2228CBDA3}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{2737EFF9-16B5-4B63-A9E3-89E2228CBDA3}.Release|Mixed Platforms.Build.0 = Debug|.NET
+		{B604F553-DC57-424B-9A59-FCBEF4578970}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{B604F553-DC57-424B-9A59-FCBEF4578970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B604F553-DC57-424B-9A59-FCBEF4578970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B604F553-DC57-424B-9A59-FCBEF4578970}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B604F553-DC57-424B-9A59-FCBEF4578970}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B604F553-DC57-424B-9A59-FCBEF4578970}.Release|.NET.ActiveCfg = Release|Any CPU
+		{B604F553-DC57-424B-9A59-FCBEF4578970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B604F553-DC57-424B-9A59-FCBEF4578970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B604F553-DC57-424B-9A59-FCBEF4578970}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B604F553-DC57-424B-9A59-FCBEF4578970}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
